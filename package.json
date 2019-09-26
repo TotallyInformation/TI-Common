@@ -1,7 +1,7 @@
 {
   "name": "ti-common",
   "version": "1.0.0",
-  "description": "Some common code arranged into libraries to help reduce development in TotallyInformation's repositories",
+  "description": "Some common code arranged into libraries to help reduce development overheads in TotallyInformation's repositories",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
