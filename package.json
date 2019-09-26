@@ -3,8 +3,17 @@
   "version": "1.0.0",
   "description": "Some common code arranged into libraries to help reduce development overheads in TotallyInformation's repositories",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "push": "git push origin",
+    "pull": "git pull origin",
+    "presync": "npm run pull",
+    "sync": "npm run push",
+    "listbin": "ls ./node_modules/bin",
+    "npmtags": "npm dist-tag ls node-red-contrib-uibuilder",
+    "npmtagnext": "npm dist-tag add node-red-contrib-uibuilder@$npm_package_version next",
+    "gittags": "git tag",
+    "gittag": "git tag -a v$npm_package_version",
+    "gitpushtags": "git push origin --tags"
+},
   "dependencies": {},
   "main": "index.js",
   "repository": {
