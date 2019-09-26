@@ -1,5 +1,5 @@
 # TI-Common
-Some common code arranged into libraries to help reduce development in TotallyInformation's repositories
+Some common code arranged into libraries to help reduce development overheads in TotallyInformation's repositories
 
 Please feel free to use this code as you choose. However, it is without any warrantee and may change at any time.
 
