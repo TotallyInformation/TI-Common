@@ -1,0 +1,27 @@
+{
+  "name": "ti-common",
+  "version": "1.0.0",
+  "description": "Some common code arranged into libraries to help reduce development in TotallyInformation's repositories",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TotallyInformation/TI-Common.git"
+  },
+  "keywords": [ "TotallyInformation" ],
+  "author": {
+    "name": "Julian Knight",
+    "url": "https://github.com/TotallyInformation"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/TotallyInformation/TI-Common/issues"
+  },
+  "homepage": "https://github.com/TotallyInformation/TI-Common#readme",
+  "engines": {
+    "node": ">=8.16"
+  }
+}
